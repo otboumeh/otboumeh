@@ -35,13 +35,14 @@
 </p>
 
   <hr>
-  ## Connect with me 
+ ## Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/otmane-boumehdi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+Feel free to connect with me on LinkedIn:
+
+<a href="https://linkedin.com/in/otmane-boumehdi" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
 
 ---
 
