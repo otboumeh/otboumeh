@@ -35,11 +35,25 @@
 </p>
 
   <hr>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/otmane-boumehdi" target="blank">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="otmane-boumehdi" height="30" width="150" />
-</a>
+## Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/otmane-boumehdi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### 📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=otboumeh&show_icons=true&theme=radical" alt="Otmane's GitHub Stats" />
+</p>
+
+---
+
+Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
 </p>
 
 
