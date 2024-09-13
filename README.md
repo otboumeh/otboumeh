@@ -13,7 +13,7 @@
   
 <hr><br>
   
-  ## Languages and Tools
+## 🛠️ Languages and Tools
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## Platforms and Technologies
+## 💻 Platforms and Technologies
 
 <p align="center">
   <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" />
@@ -36,7 +36,7 @@
 
   <hr>
   
- ## Connect with Me
+## 🔗 Connect with Me
 
 Feel free to connect with me on LinkedIn:
 
