@@ -56,7 +56,14 @@ Feel free to connect with me on LinkedIn:
 
 ---
 
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
-</p>
+## 🎉 Thanks for Stopping By!
+
+I'm thrilled you visited my profile! 🚀
+
+Feel free to dive into my repositories and explore my projects. If you have any questions or just want to chat about tech, don't hesitate to connect with me on LinkedIn. Let's build something awesome together! 🤝✨
+
+🔗 **[Connect with me on LinkedIn](https://linkedin.com/in/otmane-boumehdi)**
+
+Happy coding! 💻🔍
 
 
