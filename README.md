@@ -9,7 +9,7 @@
 
 - 📫 How to reach me [otmane.boumehdi1@gmail.com](otmane.boumehdi1@gmail.com)
 
-- 🌱 I’m currently learning **C language**
+- 🌱 I’m currently learning **C , JAVA, JAVASCRIPT**
   
 <hr><br>
   
