@@ -35,7 +35,7 @@
 </p>
 
   <hr>
-## Connect with Me
+  ## Connect with me 
 
 <p align="center">
   <a href="https://linkedin.com/in/otmane-boumehdi" target="_blank">
