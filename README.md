@@ -10,11 +10,33 @@
 - 📫 How to reach me [otmane.boumehdi1@gmail.com](otmane.boumehdi1@gmail.com)
 
 - 🌱 I’m currently learning **C language**
-
+  
+<hr><br>
+  
+  <p align="center">**Languages and Tools**</p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" style="vertical-align:down;"/>
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" style="vertical-align:down;"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="vertical-align:down;"/>
+    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" style="vertical-align:down;"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:down;"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" style="vertical-align:down;"/>
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style="vertical-align:down;"/>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" style="vertical-align:down;"/>
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=for-the-badge" style="vertical-align:down;"/>
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-99F?logo=adobepremierepro&logoColor=fff&style=for-the-badge" style="vertical-align:down;"/>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="vertical-align:down;"/>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="vertical-align:down;"/>
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" style="vertical-align:down;"/>
+  </p>
+  <hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/otmane-boumehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="otmane-boumehdi" height="30" width="40" /></a>
-<a href="https://instagram.com/otmane_boumehdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="otmane_boumehdi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
