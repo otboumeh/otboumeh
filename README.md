@@ -50,7 +50,12 @@ Feel free to connect with me on LinkedIn:
 ### 📈 **GitHub Stats**
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=otboumeh&show_icons=true&theme=radical" alt="Otmane's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otboumeh&layout=compact&theme=radical" alt="Otmane's Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otboumeh&theme=radical" alt="Otmane's GitHub Streak" />
 </p>
 
 
@@ -64,15 +69,6 @@ Feel free to dive into my repositories and explore my projects. If you have any 
 
 Happy coding! 💻🔍
 
-## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otboumeh&show_icons=true&theme=radical" alt="Otmane's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otboumeh&layout=compact&theme=radical" alt="Otmane's Most Used Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=otboumeh&theme=radical" alt="Otmane's GitHub Streak" />
-</p>
 
 
