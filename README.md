@@ -48,8 +48,9 @@
 ### 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=otboumeh&show_icons=true&theme=radical" alt="Otmane's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otboumeh&layout=compact&theme=radical" alt="Otmane's Most Used Languages" />
 </p>
+
 
 ---
 
