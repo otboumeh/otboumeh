@@ -54,8 +54,7 @@ Feel free to connect with me on LinkedIn:
 
 <p align="center">
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=otboumeh&layout=compact&theme=radical&hide_border=true&card_width=500" alt="Otmane's Most Used Languages" />
-</p>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=otboumeh&layout=compact&theme=radical&hide_border=true&card_width=500" alt="Otmane's Most Used Languages" /></p>
 </p>
 
 
